@@ -8,8 +8,8 @@ This is my readme
 |:----------|-----|
 | Metsäaaro | 100500 |
 | Yöaaro | 4000 |
-| Neekeriaaro | 5 |
-| Homoaaro | 1 |
+| Deltaaaro | 5 |
+| Tulevaisuusaaro | 1 |
 
 asdasfddffas
 
