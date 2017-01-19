@@ -4,6 +4,13 @@ This is my readme
 
 ## Alaotsikko
 
+| Aarorodut | Kpl |
+|:----------|-----|
+| Metsäaaro | 100500 |
+| Yöaaro | 4000 |
+| Neekeriaaro | 5 |
+| Homoaaro | 1 |
+
 asdasfddffas
 
 ### Alaotsikko
