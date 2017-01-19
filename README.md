@@ -4,12 +4,12 @@ This is my readme
 
 ## Alaotsikko
 
-| Aarorodut | Kpl |
-|:----------|-----|
-| Metsäaaro | 100500 |
-| Yöaaro | 4000 |
-| Deltaaaro | 5 |
-| Tulevaisuusaaro | 1 |
+| Kissa | Kpl |
+|:------|-----|
+| Mörökölli | 100500 |
+| Mörökölli | 4000 |
+| Mörökölli | 5 |
+| Mörökölli | 1 |
 
 asdasfddffas
 
