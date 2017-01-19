@@ -1,6 +1,9 @@
-# TTOS0100
+﻿# TTOS0100
 Ohjelmistosuunnittelu- ja testaus
 This is my readme
+
+##LINKKI WIKIIN
+[TTOS0100 Wiki](https://github.com/EemeliRuha/TTOS0100/wiki)
 
 ## Alaotsikko
 
